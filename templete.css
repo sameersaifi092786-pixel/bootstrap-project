@@ -1,0 +1,111 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.navbar:hover{
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+.container{
+width:40%
+}
+
+.main{
+    display: flex;
+    width: 60%;
+}
+
+.square{
+    background-color:dodgerblue;
+    display: inline-block;
+}
+
+.main1{
+    height:600px;
+    margin-top:180px;
+    margin-left: 90px;
+    display:flex;
+}
+
+.para{
+    
+    width:45%;
+}
+
+.img{
+    height:120px;
+    width:30%;
+}
+
+.picture{
+    display: flex;
+}
+
+.abc{
+  margin-left:50px; 
+  width:30%; 
+  margin-top:40px;
+}
+
+.image{
+    background-position: center;
+    margin-top:40px;
+}
+
+.page{
+    width:30%;
+    margin-right:50px;
+    margin-top:40px;
+}
+
+.samii{
+    margin-top:100px;
+}
+
+.body{
+    width:350px;
+    height:250px;
+    background-color:rgb(224, 234, 237);
+    margin:40px 50px 25px 80px;
+    display:inline-block;
+    text-align:center;
+}
+
+.card-group{
+margin-top:50px;
+margin-left:90px;
+margin-right:90px;
+}
+
+h5{
+    color:dodgerblue;
+}
+
+h6{
+    color:grey;
+}
+
+.row{
+    margin-left:70px;
+}
+
+.form{
+    background-color:dodgerblue;
+    margin-right:50px;
+    height:380px;
+    margin-top:30px;
+}
+
+placeholder{
+    color: grey;
+}
+
+.card-body{
+    background-color:rgb(130, 185, 240);
+}
+
+.yusuf{
+    margin-left:15px;
+}
